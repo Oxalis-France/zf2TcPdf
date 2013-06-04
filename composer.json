@@ -1,5 +1,5 @@
 {
-    "name": "Oxalis/zf2TcPdf",
+    "name": "oxalis/zf2tcpdf",
     "description": "ZF2 module for TcPdf",
     "type": "module",
     "version":"0.0.2-dev",
