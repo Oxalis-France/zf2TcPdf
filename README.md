@@ -1,4 +1,4 @@
-QuTcPdf 0.0.1-dev:
+zf2TcPdf 0.0.2-dev:
 ========================
 
 ZF2 module for TcPdf
@@ -6,9 +6,14 @@ ZF2 module for TcPdf
 Release Notes
 ========================
 
+0.0.2-dev:
+
+- Adaptation pour les projets Oxalis
+- Mise à jour de tcpdf (version 6.0.018)
+
 0.0.1-dev:
 
-- Initiation TcPdf in zf2
+- Fork du projet https://github.com/Celtico/QuTcPdf.git
 
 Requirements
 ========================

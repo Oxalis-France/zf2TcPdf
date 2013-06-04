@@ -1,10 +1,10 @@
 {
-    "name": "qu-modules/qu-tcpdf",
+    "name": "Oxalis/zf2TcPdf",
     "description": "ZF2 module for TcPdf",
     "type": "module",
-    "version":"0.0.1-dev",
+    "version":"0.0.2-dev",
     "keywords": ["tcpdf","pdf","zf2","module"],
-    "homepage": "https://github.com/Celtico/QuTcPdf",
+    "homepage": "https://github.com/Oxalis-France/zf2TcPdf.git",
     "license": "BSD-3-Clause",
     "require": {
         "php": ">=5.3.3",
@@ -12,18 +12,18 @@
     },
     "authors": [
         {
-            "name": "Cel Ticó Petit",
-            "email": "cel@cenics.net",
-            "homepage": "http://www.cenics.cat",
+            "name": "Oxalis France",
+            "email": "dev@oxalis-fr.com",
+            "homepage": "http://www.oxalis-fr.com",
             "role": "Developer"
         }
     ],
     "support": {
-        "email": "cel@cenics.net"
+        "email": "dev@oxalis-fr.com"
     },
     "autoload": {
         "psr-0": {
-            "QuTcPdf": "src/"
+            "zf2TcPdf": "src/"
         },
         "classmap": [
             "./Module.php"
